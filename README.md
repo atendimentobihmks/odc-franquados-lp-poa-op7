@@ -9,7 +9,7 @@ Landing Page Institucional e de Alta Conversão em React 19 + TypeScript + Vite 
 * **Endereço:** Av. Nove de Julho, 653 • Centro, Poá/SP - CEP 08557-100
 * **WhatsApp:** (11) 4639-6140 (`5511953044610`)
 * **Instagram:** https://www.instagram.com/odcpoa/
-* **Facebook:** https://web.facebook.com/odcpoa/
+* **Facebook:** https://www.facebook.com/odcpoa/
 
 ---
 

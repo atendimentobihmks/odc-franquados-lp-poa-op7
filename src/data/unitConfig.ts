@@ -53,7 +53,7 @@ export const UNITS_DATA: Record<string, UnitData> = {
     whatsapp: '5511953044610',
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany Poá.',
     instagramUrl: 'https://www.instagram.com/odcpoa/',
-    facebookUrl: 'https://web.facebook.com/odcpoa/',
+    facebookUrl: 'https://www.facebook.com/people/ODC-POA-Calmon-Viana/61571640846383/',
     croCl: 'CRO-SP 151.880',
     address: {
       street: 'Av. Nove de Julho',
